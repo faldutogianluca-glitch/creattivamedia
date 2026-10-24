@@ -1,0 +1,4 @@
+# Cartella di lavoro interna: documenti, modello economico, registro stati, server di test. Non va nel repository pubblico.
+ops-private/
+__pycache__/
+*.pyc
